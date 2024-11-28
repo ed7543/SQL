@@ -1,2 +1,1 @@
-# SQL
-repository for SQL
+database repository
